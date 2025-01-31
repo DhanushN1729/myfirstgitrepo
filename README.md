@@ -1,4 +1,4 @@
 # myfirstgitrepo
 This is my first Git Repository.
 <br>
-Author - Dhanush N
+Author - Dhanush N(student)
